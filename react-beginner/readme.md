@@ -8,6 +8,9 @@ Here is the link to the online course: https://courses.wesbos.com/account/access
 
 ## Comments
 
+### Video #8
+We always starting a component as a stateless functional component. At the time we need lifecycle methods we change it to a class component. You can read more about these two component types [here](https://programmingwithmosh.com/react/react-functional-components/). 
+
 ### Video #13
 This video is all about data handling and the state of components in React. It is important that you understand the unidirectional data flow and the problems that came with it. In this [article](https://medium.com/dailyjs/when-do-i-know-im-ready-for-redux-f34da253c85f) you will get a nice, visual explanation and a glimpse into the state-management library [Redux](https://redux.js.org/).
 
@@ -27,3 +30,12 @@ TypeScript! It would give you a nice autocomplete in such cases.
 #### 10:30
 ES6 destructuring is very nice and important for writing cleaner code. If you are not already familiar with it or/and want to learn more about it, read this [article](https://codeburst.io/es6-destructuring-the-complete-guide-7f842d08b98f).
  
+### Video #17
+#### 04:00
+Passing only these things down that are explicitly needed. This is very important and you will learn more about that when you learn the state-management library [Redux](https://redux.js.org/).
+
+#### 05:35
+The course instructor Wes Bos talks about functional programming. This is a very crucial concept that helps you writing cleander code. I highly recommend to read this [article](https://hackernoon.com/functional-programming-in-js-map-filter-reduce-pt-5-308a205fdd5f). It points out some very helpful JavaScript functions for arrays.
+
+#### 10:40
+"...but it doesn't make a whole lot of sense to make a separate component just for this one item". This is what Wes Bos said when he created a render function in the current file. It is not always easy when you should create an own component in a seperate file for something. I tend to always create 
