@@ -38,4 +38,6 @@ Passing only these things down that are explicitly needed. This is very importan
 The course instructor Wes Bos talks about functional programming. This is a very crucial concept that helps you writing cleander code. I highly recommend to read this [article](https://hackernoon.com/functional-programming-in-js-map-filter-reduce-pt-5-308a205fdd5f). It points out some very helpful JavaScript functions for arrays.
 
 #### 10:40
-"...but it doesn't make a whole lot of sense to make a separate component just for this one item". This is what Wes Bos said when he created a render function in the current file. It is not always easy when you should create an own component in a seperate file for something. I tend to always create 
+"...but it doesn't make a whole lot of sense to make a separate component just for this one item". This is what Wes Bos said when he created a render function in the same file. It is not always easy when you should create an own component in a seperate file for something. I tend to create bigger components first and split it up later if needed. One reason for that is when a component contains too much logic. A second reason could be if I need a part of the component somewhere else. Take the part out and make an own component for it. So your code will be clean and simple.
+
+
