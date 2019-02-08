@@ -73,6 +73,11 @@ If the application would use Redux you could avoid this complex data handling, b
 #### 15:07
 With TypeScript you would encounter this bug immediately in your editor and not during runtime.
 
+### Video #21
+#### 01:15
+Again an array would have been the better choice. You see with an array instead you just use the [Array.filter](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/filter) function for deleting the fish and thats it.
+
+
 
 ## PCode Clean Code Adventure
 Video #17 14:05: Line 8 and 24
