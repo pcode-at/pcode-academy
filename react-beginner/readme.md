@@ -63,6 +63,16 @@ Again with the usage of TypeScript, you would notice this kind of bug without sw
 #### 09:30
 JavaScript is a single-threaded programming language. Considering this it is very important that you understand the behaviour of asynchron code. I highly recommend reading this [article](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff). Also check out this [article](https://medium.freecodecamp.org/avoiding-the-async-await-hell-c77a0fb71c4c). It points out the correct usage of async/await and how you can avoid common pitfalls.
 
+### Video #20
+#### 01:57
+As I mentioned above the usage of an object instead of an array for storing the fishes wasn't maybe the correct decision. It is just common sense that if something is written in plural you can iterate over this. Keep this in mind for writing a simple and easy to understand code.
+
+#### 08:18
+If the application would use Redux you could avoid this complex data handling, because you could access the whole data state of the application in every (container) component.
+
+#### 15:07
+With TypeScript you would encounter this bug immediately in your editor and not during runtime.
+
 
 ## PCode Clean Code Adventure
 Video #17 14:05: Line 8 and 24
