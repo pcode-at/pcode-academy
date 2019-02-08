@@ -40,4 +40,13 @@ The course instructor Wes Bos talks about functional programming. This is a very
 #### 10:40
 "...but it doesn't make a whole lot of sense to make a separate component just for this one item". This is what Wes Bos said when he created a render function in the same file. It is not always easy when you should create an own component in a seperate file for something. I tend to create bigger components first and split it up later if needed. One reason for that is when a component contains too much logic. A second reason could be if I need a part of the component somewhere else. Take the part out and make an own component for it. So your code will be clean and simple.
 
+#### 11:37
+Look at the line 23: `<ul>{orderIds.map(this.renderOrder)}</ul>`. If you asked yourself where he passes the `key` prop than you might want to read this [article](https://dev.to/danhomola/point-free-gotchas-in-javascript--3pfi). It is a technique called point-free style.
 
+#### 14:05
+Usage of the bang! operator. It is simply a other word for the logical not operator. Checkout this [article](https://medium.com/@pddivine/javascript-bang-bang-i-shot-you-down-use-of-double-bangs-in-javascript-7c9d94446054)! 💣
+
+
+## PCode Clean Code Adventure
+Video #17 14:05: Line 8 and 24
+16:47: Line 10 and 13: Give me a solution where you 
