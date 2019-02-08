@@ -51,8 +51,17 @@ Usage of the bang! operator. It is simply a other word for the logical not opera
 Lifecycle methods are very important if you want develop great React applications. Please read this [documentation](https://reactjs.org/docs/react-component.html) before you want to use a specfific lifecycle method in your code. Here is a very neat [cheatsheet](https://devhints.io/react#lifecycle)!
 
 #### 13:30
-Always clear open connections in the componentWillUnmount lifecycle method or you will run into memory leak problems. Here is a short example [video](https://teamtreehouse.com/library/prevent-memory-leaks-with-componentwillunmount). If you read more about closing connections or XHR requests, then check out this [article](https://medium.freecodecamp.org/how-to-work-with-react-the-right-way-to-avoid-some-common-pitfalls-fc9eb5e34d9e).
+Always clear open connections in the componentWillUnmount lifecycle method or you will run into memory leak problems. Here is a short example [video](https://teamtreehouse.com/library/prevent-memory-leaks-with-componentwillunmount). If you want to read more about closing connections or XHR requests, then check out this [article](https://medium.freecodecamp.org/how-to-work-with-react-the-right-way-to-avoid-some-common-pitfalls-fc9eb5e34d9e).
 
+### Video #19
+#### 04:05
+Wouldn't it be nice if you get a correct auto-completion for the params available here? In addition to that think of a person who is not familiar with the code. This person has to look into the code which params are available for the specific route. All these problems get solved with TypeScript!
+
+#### 07:00
+Again with the usage of TypeScript, you would notice this kind of bug without switching to the browser. You would see it directly in your code (VSCode) editor instead.
+
+#### 09:30
+JavaScript is a single-threaded programming language. Considering this it is very important that you understand the behaviour of asynchron code. I highly recommend reading this [article](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff). Also check out this [article](https://medium.freecodecamp.org/avoiding-the-async-await-hell-c77a0fb71c4c). It points out the correct usage of async/await and how you can avoid common pitfalls.
 
 
 ## PCode Clean Code Adventure
