@@ -46,6 +46,14 @@ Look at the line 23: `<ul>{orderIds.map(this.renderOrder)}</ul>`. If you asked y
 #### 14:05
 Usage of the bang! operator. It is simply a other word for the logical not operator. Checkout this [article](https://medium.com/@pddivine/javascript-bang-bang-i-shot-you-down-use-of-double-bangs-in-javascript-7c9d94446054)! 💣
 
+### Video #18
+#### 08:30
+Lifecycle methods are very important if you want develop great React applications. Please read this [documentation](https://reactjs.org/docs/react-component.html) before you want to use a specfific lifecycle method in your code. Here is a very neat [cheatsheet](https://devhints.io/react#lifecycle)!
+
+#### 13:30
+Always clear open connections in the componentWillUnmount lifecycle method or you will run into memory leak problems. Here is a short example [video](https://teamtreehouse.com/library/prevent-memory-leaks-with-componentwillunmount). If you read more about closing connections or XHR requests, then check out this [article](https://medium.freecodecamp.org/how-to-work-with-react-the-right-way-to-avoid-some-common-pitfalls-fc9eb5e34d9e).
+
+
 
 ## PCode Clean Code Adventure
 Video #17 14:05: Line 8 and 24
