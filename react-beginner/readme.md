@@ -83,7 +83,3 @@ Again an array would have been the better choice. You see with an array instead 
 ### Video #23
 #### 00:05
 This is one of the reasons why we stick to React as a JavaScript framework/library. At the end of the day, it makes you a better JavaScript developer. I recommend reading this [article](https://www.infoworks-tn.com/why-writing-react-can-make-you-a-better-javascript-developer/). For a better understanding of JSX in general read [this](https://medium.com/javascript-scene/jsx-looks-like-an-abomination-1c1ec351a918).
-
-## PCode Clean Code Adventure
-Video #17 14:05: Line 8 and 24
-16:47: Line 10 and 13: Give me a solution where you 
