@@ -46,6 +46,9 @@ Look at the line 23: `<ul>{orderIds.map(this.renderOrder)}</ul>`. If you asked y
 #### 14:05
 Usage of the bang! operator. It is simply another word for the logical not operator. Check out this [article](https://medium.com/@pddivine/javascript-bang-bang-i-shot-you-down-use-of-double-bangs-in-javascript-7c9d94446054)! 💣
 
+#### 14:06
+Look at the lines 8 and 24. Do you notice something? The first thing is he uses the status `available` two times and it is a plain text. A single typo here and the app will not work. The better solution for this is to create a constant for the status value instead. For example `available` and `unavailable`. The second 
+
 ### Video #18
 #### 08:30
 Lifecycle methods are very important if you want to develop great React applications. Please read this [documentation](https://reactjs.org/docs/react-component.html) before you want to use a specific lifecycle method in your code. Here is a very neat [cheatsheet](https://devhints.io/react#lifecycle)!
