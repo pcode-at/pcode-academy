@@ -64,7 +64,7 @@ Wouldn't it be nice if you get a correct auto-completion for the params availabl
 Again with the usage of TypeScript, you would notice this kind of bug without switching to the browser. You would see it directly in your code (VSCode) editor instead.
 
 #### 09:30
-JavaScript is a single-threaded programming language. Considering this it is very important that you understand the behavior of asynchronous code. I highly recommend reading this [article](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff). Also check out this [article](https://medium.freecodecamp.org/avoiding-the-async-await-hell-c77a0fb71c4c). It points out the correct usage of async/await and how you can avoid common pitfalls.
+This problem occurs because JavaScript is a single-threaded programming language. I highly recommend checking out our [module](https://github.com/pcode-at/pcode-academy/blob/react-beginner/javascript/asynchronous.md).
 
 ### Video #20
 #### 01:57
