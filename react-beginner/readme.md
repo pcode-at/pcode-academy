@@ -47,7 +47,7 @@ Look at the line 23: `<ul>{orderIds.map(this.renderOrder)}</ul>`. If you asked y
 Usage of the bang! operator. It is simply another word for the logical not operator. Check out this [article](https://medium.com/@pddivine/javascript-bang-bang-i-shot-you-down-use-of-double-bangs-in-javascript-7c9d94446054)! 💣
 
 #### 14:06
-Look at the lines 8 and 24. Do you notice something? The first thing is he uses the status `available` two times and it is a plain text. A single typo here and the app will not work. The better solution for this is to create a constant for the status value instead. For example `available` and `unavailable`. The second 
+Look at line 8 and 24. Do you notice anything? The first thing is that he uses the status `available` two times in plain-text. A single typo here and the app will not work. The better solution for this would be two constants. For example `available` and `unavailable`. After you have learned TypeScript you will solve such problems with an [Enum](https://www.typescriptlang.org/docs/handbook/enums.html). The second thing I noticed is that he mixes the using of quotation marks. In line 8 he writes `'available'` and in line 24 `"available"`. If [prettier](https://prettier.io/) is configured correctly it will correct every double quotation mark to a single quotation mark. It is important to be consistent. We always use single quotation marks.
 
 ### Video #18
 #### 08:30
