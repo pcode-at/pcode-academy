@@ -11,7 +11,7 @@ The PCode Academy is seperated in different domains. One domain for example coul
 ### Module readme
 If you have choosen a module you will find a readme.md in there. The readme.md is seperated in:
 
-* Course
+* Resources
 * Comments
 * PCode Clean Code Adventure
 
