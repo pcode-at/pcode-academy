@@ -16,7 +16,9 @@ If you have choosen a module you will find a readme.md in there. The readme.md i
 * PCode Clean Code Adventure
 
 #### Resources
-These are simply links to courses like in the [react beginner module](https://github.com/pcode-at/pcode-academy/blob/react-beginner/react-beginner/readme.md) or links to articles as we did it in this [module](https://github.com/pcode-at/pcode-academy/blob/react-beginner/javascript/asynchronous.md).
+These are simply links to courses like in the [react beginner module](https://github.com/pcode-at/pcode-academy/blob/react-beginner/react-beginner/readme.md) or links to articles as we did it in this [module](https://github.com/pcode-at/pcode-academy/blob/react-beginner/javascript/asynchronous.md). 
+
+**Important**: Often there are other articles linked in the article we link to in our resources. If we do not explicitly mention that you also need to read the linked article it is not necessary to read them.
 
 #### Comments
 After you have watched the course completly you go ahead and read our comments to the course. Here you can find some additions of us, like when we have a different approach than the course intructor or we want to add something.
