@@ -25,4 +25,5 @@ This will lead to this output: `example increment 1 2 3`, but why? Maybe you say
 
 
 ## Resources
-I strongly recommend reading the article [I never understood JavaScript closures](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8). It explains closures very nicely. If you want to read more there is also the article [Master the JavaScript Interview: What is a Closure?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36) from Eric Elliott.
+* [I never understood JavaScript closures](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8) - a very good explanation
+* [Master the JavaScript Interview: What is a Closure?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36) - if you want to read more about the topic in a more advanced way from Eric Elliott
