@@ -9,7 +9,7 @@ Pure functions are simple but very useful. They are predictable and therefore ve
 With function composition, your code gets more readable. You reduce the using of variables which exist only to hold transient values between one operation and the next. We learned this technique from this [article](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0). [The Dao of Immutability](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd) is also a very nice read.
 
 ### Core concept
-If you have finished reading the articles of the two topics above you are a ready for [Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0).
+If you have finished reading the articles of the two topics above you are a ready for the [Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0).
 
 
 ## Comments
