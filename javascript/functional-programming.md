@@ -11,6 +11,8 @@ With function composition, your code gets more readable. You reduce the using of
 ### Core concept
 If you have finished reading the articles of the two topics above you are a ready for the [Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0).
 
+### .map(), .reduce() and .filter()
+
 
 ## Comments
 In the mentioned articles above you often will find the function [`Object.assign()`](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Object/assign). Instead of using this syntax we now use the new [spread operator](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Operators/Spread_operator) that comes with ES6. [Replace](https://redux.js.org/recipes/using-object-spread-operator) one syntax with the other is really easy.
