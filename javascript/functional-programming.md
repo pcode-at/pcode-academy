@@ -7,3 +7,9 @@ Pure functions are simple but very useful. They are predictable and therefore ve
 
 ### Function Composition
 With function composition, your code gets more readable. You reduce the using of variables which exist only to hold transient values between one operation and the next. We learned this technique from this [article](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0).
+
+### Core concept
+
+
+## Comments
+In the mentioned articles above you often will find the function [`Object.assign()`](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Object/assign). Instead of using this syntax we now use the new [spread operator](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Operators/Spread_operator) that comes with ES6. Also, read [this](https://redux.js.org/recipes/using-object-spread-operator).
