@@ -9,7 +9,11 @@ Pure functions are simple but very useful. They are predictable and therefore ve
 With function composition, your code gets more readable. You reduce the using of variables which exist only to hold transient values between one operation and the next. We learned this technique from [Master the JavaScript Interview: What is Function Composition?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0). [The Dao of Immutability](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd) is also a very nice read.
 
 ### Core concept
-If you have finished reading the articles of the two topics above you are ready for the [Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0).
+If you have finished reading the articles of the two topics above you are ready for [Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0).
+
+## Immutability
+Immutability is a very important aspect of functional programming. After you read [
+Immutable Javascript using ES6 and beyond](https://wecodetheweb.com/2016/02/12/immutable-javascript-using-es6-and-beyond/) you should know how to write immutable JavaScript code and why it is so important.
 
 ### .map(), .reduce() and .filter()
 In the article above you often read about [.map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map), [.reduce()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce) and [.filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter). Despite they are pure functions, they are very useful and help you write more declarative code. For a better understanding when and how you should use them read [Simplify your JavaScript – Use .map(), .reduce(), and .filter()](https://medium.com/poka-techblog/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d).
