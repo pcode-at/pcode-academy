@@ -11,7 +11,7 @@ With function composition, your code gets more readable. You reduce the using of
 ### Core concept
 If you have finished reading the articles of the two topics above you are ready for [Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0).
 
-## Immutability
+### Immutability
 Immutability is a very important aspect of functional programming. After you read [
 Immutable Javascript using ES6 and beyond](https://wecodetheweb.com/2016/02/12/immutable-javascript-using-es6-and-beyond/) you should know how to write immutable JavaScript code and why it is so important.
 
