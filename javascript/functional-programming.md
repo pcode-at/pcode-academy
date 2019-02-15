@@ -54,5 +54,8 @@ In the article above you often read about [.map()](https://developer.mozilla.org
 ## Comments
 In the mentioned articles above you often will find the function [`Object.assign()`](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Object/assign). Instead of using this syntax we now use the new [spread operator](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Operators/Spread_operator) that comes with ES6. [Replace](https://redux.js.org/recipes/using-object-spread-operator) one syntax with the other is really easy.
 
+### Function Composition
+In the article [A quick introduction to pipe() and compose() in JavaScript](https://medium.freecodecamp.org/pipe-and-compose-in-javascript-5b04004ac937) the author writes about the library [ramda](https://ramdajs.com/). This is also the functional programming library that we use for our projects at PCode.
+
 ### map(), .reduce() and .filter()
 In the article [Simplify your JavaScript – Use .map(), .reduce(), and .filter()](https://medium.com/poka-techblog/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d) the author writes about how he could possibly do everything with the .reduce() function. Why is that not that clean? The answer is it is not a declarative code then. The function 'does too much'. A much better solution is to split (how he did it in the article) the code in three parts(functions) and then use [function composition](#function-composition). Always think of [SRP](https://de.wikipedia.org/wiki/Single-Responsibility-Prinzip).
