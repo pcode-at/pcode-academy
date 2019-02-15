@@ -9,7 +9,7 @@ Pure functions are simple but very useful. They are predictable and therefore ve
 A higher order function is a function that takes a function as an argument or returns a function. This is stated in the article [Higher Order Functions (Composing Software)](https://medium.com/javascript-scene/higher-order-functions-composing-software-5365cf2cbe99) from Eric Elliott.
 
 ### Closures
-A closure is the combination of a function and the lexical environment within which that function was declared.
+A [closure](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures) is the combination of a function and the lexical environment within which that function was declared.
 
 Considering this code example([source](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8)):
 
