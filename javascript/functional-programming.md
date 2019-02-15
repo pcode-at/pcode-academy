@@ -5,6 +5,9 @@ Functional programming is an important programming paradigm. It lets you write m
 ### Pure Functions
 Pure functions are simple but very useful. They are predictable and therefore very easy to test. It is very important that you have as many logic as possible in pure functions. With them, your code will be simple to understand and bug resistant. The main characteristic of a pure function is that it has no side effects. Read [Master the JavaScript Interview: What is a Pure Function?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
 
+### Higher Order Functions
+A higher order function is a function that takes a function as an argument or returns a function. This is stated in the article [Higher Order Functions (Composing Software)](https://medium.com/javascript-scene/higher-order-functions-composing-software-5365cf2cbe99) from Eric Elliott.
+
 ### Closures
 A closure is the combination of a function and the lexical environment within which that function was declared.
 
