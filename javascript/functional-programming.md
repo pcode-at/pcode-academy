@@ -66,4 +66,4 @@ In the article [Simplify your JavaScript – Use .map(), .reduce(), and .filter(
 ## PCode Clean Code Adventure
 In our [functional programming adventure](https://github.com/pcode-at/clean-code-adventure/tree/module/functional-programming/src/pcode-academy/javascript/functional-programming), you will get in touch with all the things mentioned above. You will write pure, declarative functions with .map(), .reduce() and .filter() and then compose them with a pipe to a new, highly meaningful function.
 
-**Tip:** After you run `yarn test` press `p`in the console to filter the tests with 'functionalProgramming.test' or something short like 'funct' to run only relevant tests according to the [functional programming adventure](https://github.com/pcode-at/clean-code-adventure/tree/module/functional-programming/src/pcode-academy/javascript/functional-programming).
+**Tip:** After you run `yarn test` press `p`in the console to filter the tests with 'functionalProgramming.test' or something short like 'funct' to run only relevant tests.
