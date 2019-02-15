@@ -62,3 +62,8 @@ In the article [A quick introduction to pipe() and compose() in JavaScript](http
 
 ### map(), .reduce() and .filter()
 In the article [Simplify your JavaScript – Use .map(), .reduce(), and .filter()](https://medium.com/poka-techblog/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d) the author writes about how he could possibly do everything with the .reduce() function. Why is that not that clean? The answer is it is not a declarative code then. The function 'does too much'. A much better solution is to split (how he did it in the article) the code in three parts(functions) and then use [function composition](#function-composition). Always think of [SRP](https://de.wikipedia.org/wiki/Single-Responsibility-Prinzip).
+
+## PCode Clean Code Adventure
+In our [functional programming adventure](https://github.com/pcode-at/clean-code-adventure/tree/module/functional-programming/src/pcode-academy/javascript/functional-programming), you will get in touch with all the things mentioned above. You will write pure, declarative functions with .map(), .reduce() and .filter() and then compose them with a pipe to a new, highly meaningful function.
+
+**Tip:** After you run `yarn test` press `p`in the console to filter the tests with 'functionalProgramming.test' or something short like 'funct' to run only relevant tests according to the [functional programming adventure](https://github.com/pcode-at/clean-code-adventure/tree/module/functional-programming/src/pcode-academy/javascript/functional-programming).
